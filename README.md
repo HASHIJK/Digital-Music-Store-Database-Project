@@ -1,6 +1,6 @@
 # Digital-Music-Store-Database-Project
 **Project Description** <br/>
-This was a final project of _Using SQL for Data Analysis Course_. The project was aimed to analyze the Chinbook database to understand their customers, employees, media and invoice information. In this project, you must prepare and analyze the data by using your SQL skills, like (joins, subqueris, views, alaises, aggregations, etc.), and sharing the findings as a presentation that explaining the most important insights. I spent almost 5 days on this project, it was useful and challenging. <br/>
+This was a final project of Using SQL for Data Analysis Course. The project was aimed to analyze the Chinbook database to understand their customers, employees, media and invoice information. In this project, you must prepare and analyze the data by using your SQL skills, like (joins, subqueries, views, aliases, aggregations, etc.), and sharing the findings as a presentation that explaining the most important insights. I spent almost 5 days on this project, it was useful and challenging. <br/>
 <br/>
 **Getting Dataset** <br/>
 In this project, I used the _Chinbook Database_, that contains 11 tables, each table has a lot of rows and values. You can get the data through the files which I uploaded in this repository. The name of the database is chinbook-db. <br/>
