@@ -28,7 +28,7 @@ AND mp.CountryName = wd.CountryName
 ORDER BY 2 DESC;
 
 ------------------------------------------
-/* Query 1 - query used for second insight /
+/* Query 2 - query used for second insight /
 ------------------------------------------
 WITH FIRST AS
   (SELECT COUNT(*) Purchases,
@@ -56,7 +56,7 @@ JOIN SECOND s ON MAX_Purchases = Purchases
 AND s.BillingCountry = f.BillingCountry
 
 ------------------------------------------
-/* Query 1 - query used for third insight /
+/* Query 3 - query used for third insight /
 ------------------------------------------
 SELECT Name,
        Milliseconds
@@ -67,7 +67,7 @@ WHERE Milliseconds >
 ORDER BY 2 DESC
 LIMIT 10;
 ------------------------------------------
-/* Query 1 - query used for fourth insight /
+/* Query 4 - query used for fourth insight /
 ------------------------------------------
 SELECT vline.InvoiceId,
        COUNT(InvoiceLineId) ItemsCount,
