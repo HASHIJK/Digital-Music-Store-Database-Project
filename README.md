@@ -23,14 +23,23 @@ To do these complex and long process we need to build a methodology to be as a p
 
 **Phase 1:** _Frame the questions_. In this step, I defined 4 questions which need to utilize all the SQL skills to pull their answers from the database. These questions included quantitative variables and qualitative variables. <br/>
 
-**Phase 2:** _Assemble the data_. Doning this task need to the SQL Skills, therefore I assembled the data by creating complex queries which contains joins, aggregations, subqueries, etc. One of the challenges I faced here, is you should think, depend on the way of the database aggregated. So, you should keep the database schema side by side your analyzing process. From my experience, the hardest thing in querying the data, is the fully correct imagining of the level of granulated data. <br/>
+**Phase 2:** _Assemble the data_. Doing this task need the SQL Skills, therefore I assembled the data by creating complex queries which contain joins, aggregations, subqueries, etc. One of the challenges I faced here, is you should think, depend on the way of the database aggregated. So, you should keep the database schema side by side your analyzing process. From my experience, the hardest thing in querying the data, is the fully correct imagining of the level of granulated data. <br/>
 
 **Phase 3:** _Calculate the results_. With SQL, this step is combined with the previous step, all of them in one query. Some of the calculations which I did, is calculating the averages, counting, highest and lowest values. <br/> 
 
-**Phase 4:** _Tell the others_. After querying process, I got the data, so, I transferd these data into Execl to complete the last step of the analyzing process, which is telling the others by making visualizations that provides fully descriping of the results. I used verios types of plots to describ specific case of data. You can browse the visualizations from the uploaded files in the repository. <br/>
+**Phase 4:** _Tell the others_. After querying process, I got the data, so, I transferred these data into Execl to complete the last step of the analyzing process, which is telling the others by making visualizations that provide fully describing of the results. I used various types of plots to describe specific part of the data. You can browse the visualizations from the uploaded files in the repository. <br/>
 
 
-**Project Outcomes**
-**The Enviorments**
+**Project Outcomes** <br/>
+The projects outcomes were: 
+1. A presentation contains 4 insights. <br/>
+2. 4 Complex Queries. <br/>
+3. 4 Visualizations. <br/>
+
+**Used Tools** <br/> 
+I used these tools: <br/> 
+1. DB Browser for SQLite. <br/>
+2. Excel. <br/>
+
 
 That is all.
